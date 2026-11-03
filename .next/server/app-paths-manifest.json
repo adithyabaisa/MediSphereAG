@@ -1,8 +1,0 @@
-{
-  "/(auth)/signin/page": "app/(auth)/signin/page.js",
-  "/(auth)/register/patient/page": "app/(auth)/register/patient/page.js",
-  "/(auth)/register/hospital/page": "app/(auth)/register/hospital/page.js",
-  "/(platform-admin)/platform-admin/verifications/page": "app/(platform-admin)/platform-admin/verifications/page.js",
-  "/(patient)/patient/dashboard/page": "app/(patient)/patient/dashboard/page.js",
-  "/(hospital)/hospital/admin/page": "app/(hospital)/hospital/admin/page.js"
-}
